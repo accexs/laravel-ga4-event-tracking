@@ -4,12 +4,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mike Wall",
-            "email": "daikazu@gmail.com",
-            "homepage": "http://mikewall.dev"
+            "name": "Ronny Arvelo"
         }
     ],
-    "homepage": "https://github.com/daikazu/laravel-ga4-event-tracking",
+    "homepage": "https://github.com/accexs/laravel-ga4-event-tracking",
     "keywords": [
         "laravel",
         "google-analytics-4",
