@@ -1,5 +1,5 @@
 {
-    "name": "daikazu/laravel-ga4-event-tracking",
+    "name": "accexs/laravel-ga4-event-tracking",
     "description": "Laravel package to easily send events to Google Analytics 4",
     "license": "MIT",
     "authors": [
