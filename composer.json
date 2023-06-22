@@ -17,12 +17,12 @@
         "analytics-event-tracking"
     ],
     "require": {
-        "illuminate/support": "^9",
+        "illuminate/support": "^10",
         "guzzlehttp/guzzle": "^7.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
-        "orchestra/testbench": "^7.0"
+        "orchestra/testbench": "^8.5"
     },
     "autoload": {
         "psr-4": {
