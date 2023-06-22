@@ -19,7 +19,7 @@
         "analytics-event-tracking"
     ],
     "require": {
-        "illuminate/support": "~9",
+        "illuminate/support": "^9",
         "guzzlehttp/guzzle": "^7.5"
     },
     "require-dev": {
